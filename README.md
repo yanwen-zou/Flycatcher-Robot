@@ -2,7 +2,9 @@
 
 > 愛すべきお客様に、ハートフルな今日と、最高の笑顔を。
 
-![Cover Image](img/Flycatcher_Robot.jpg)
+<div style="text-align: center;">
+  <img src="img/Flycatcher_Robot.jpg" style="width: 80%;"/>
+</div>
 
 This project is a replica of the Flycatcher Robot from the anime *Apocalypse Hotel*, designed as an open-source desktop-level quadruped robot. 
 
