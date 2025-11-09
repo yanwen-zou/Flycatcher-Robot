@@ -16,7 +16,8 @@ The majority of the hardware in this project consists of available standard item
   <img src="img/CAD_1.png" style="width: 48%;"/>
   <img src="img/3D_Printing.jpg" style="width: 48%;"/>
 </div>
-You
+Check the STL/STEP files [here](https://github.com/yanwen-zou/Flycatcher-Robot/tree/main/model).
+
 
 It is recommended to print using PLA and with tree support.
 
