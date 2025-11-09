@@ -34,6 +34,7 @@ It is recommended to print using PLA and with tree support.
 | Mini bevel gear        | [Link](https://item.taobao.com/item.htm?_u=920cia0fifd05c&id=802831128052&pisk=g_AUTm4NE_x1kWqsOhCzueGrVJSdh_ojqQs5rUYlRMjnewGuaU8cP2n-Jd7kVh3-J6Tl43-1X7_Sp0FybHTDd9tWdgbljhYQOgGdU38XD3NS9p_uahTRE3Oyy77kr33dV2BeJeCRZmiXajTpJPqfI9AFrNqMWZZhqA63Lf8I5mijGjM3S_oEce1ySd9GuZfl-_bosV7f-8flEwYi7ab7x8VHqF0NXaZlr7XkSGbVP7fuZ_XgSabP-aVlZ5XGXaflq3fo71jOr_jkq_AUpOWq_ZXn5T5wi0oQB6ID-GPugFIdtuT0FWPFkwBUpcITZNON89SD8I2kSnQynIWpmcwCxK5H06vZjW5BYCxVtdogTsvvR6sPmuQgtrdJLu2lK7_NcVuwnsCfHZhMiyw8eOx57igpJ8eRK9_NcVuae8BGMNSjJeC..&spm=a1z09.2.0.0.7aac2e8dMzZkOZ) | 4      | ¥42.40  | 0.5 module, 20 teeth, 4mm shaft hole, fixed to the wheel and coupled with servos |
 | Servo bevel gear       | [Link](https://item.taobao.com/item.htm?_u=920cia0fife739&id=924233815457&pisk=gsoYTWX3XLBvce1VHfYkShFwA4mAkUDqUjkCj5Vc5bh-6vBmoPVg5lhE9PsMuo4TXbNomSD0cRassXg0GqVGXchrMijgcfxT1vuyQS2mmOesPjIioxVmyOEqqqjgiIrtCX49tBxHxxk40lOHt3vEv0EQpi11srMWVl2trx_cdxk4bl6l1e0S3hUww_8_C598VRyhhlwffa98BJF_fSa1NawQN5Zs1P67P-yg1iw_5898nRj_CSNfFuw3dZ1j1l9-F7y_f-G_fLH7aRObxMNWh5stuWavyGp6nZbm2-UY6m2PWVnGxPVCn7sOXdb8uWt3wGss2-M_dwZFcHFSoVi0VmOWeuixMma-iFsLVmhxczhBZghN4ennvMVGtWeGkLn17NzbULYM_n5821KTeWvAON7arTy8tLLf7NzbU8FHHhQN7zXP.&skuId=6079562498001&spm=a1z09.2.0.0.7aac2e8dMzZkOZ) | 4      | ¥42.40  | 0.5 module, 20 teeth, 4mm shaft hole, installed on the servo |
 | Knurled nuts           | [Link](https://item.taobao.com/item.htm?_u=920cia0fif48e4&id=868299597594&pisk=gtaUTNAZq426ZTv1RR3ygW_PFHkKb4WfEzMSZ7VoOvDh2X_kz7PmN6BR9lluFRCR92NoU8ysBUG5vTLzQJN0ADw7AYcoIRVBRY_K48PbH8T5JkGkzRN-q8azwUluZ8CKF6nU9W3-rt6bzZNL9CvjjD4EtAcg6jDoZGiHYNPC1t6flZsHs4WFhWgzilqigj0ot4Y3s1loip0oqXVG_bcWK3Y3E5fZBb9oZUmusAcqNU0krbAijXGexBYntNciBb0ot80l_VDtZ4DuE4AF_coV7jmh10uaoT-H9Xk0tA8ku5Hq-N2HVFTsJXnevNH9rfaZTDk0Trxus-hzmroLnOtIKou332qNIeuQLP2q-lWM8qqYO2sPmLhM-IU8YLxoxUGZh15amq3jDjQgoBtJ2c2S_x1L93K-xDGZh15w23nikfkf9WC..&spm=a1z09.2.0.0.7aac2e8dMzZkOZ) | 20     | ¥0.60  | 3*3*4.1                                 |
+| Wheel                 | [Link](https://item.taobao.com/item.htm?_u=920cia0fif4f47&id=851325146722&pisk=giaaGVAEmq2BZiJC5J32a59Gz2MtWqW5nrMjiSVm1ADGDf_DuSPoG1BA6kl0hJCA6VNm3-yIpEGfXtL4LRNufcwbfxcmKJV65x_t0-P7e-TfWlGDuJNxm-a4MEl0i-Cth1na653xoT67uaNT61ja1_UZiW039b9mnMiMbwP1OT65PasMtqWNF5gqKHynab0msqcMt6lrgK0mmq0hTjcXInYgnWfEpjLmnEYDxpcosK0Dof0nKjlrsEcDSDmnpj0miF20t6ljKx0mo-VH9CiE4wloj6iqV-c2C-iZE5DezQUmIMHPyvLcMycwFXFGDEY08fog8Rb2CKg0j5wEVlWy7kVgQumuSaK-j52aq04G7LHI2g7MHXYMwrEwnnmMlXk5T6roy4i-ww4k1nKxx-GEF1F9DnnifXk5T6-vDD0-TY1T6&spm=a1z09.2.0.0.65e12e8dTZdetY) | 4      | ¥44.00  | Outer diameter 30mm, groove width 4mm, thickness 10mm, width 6mm, inner hole |
 
 ### Electronics
 
@@ -46,13 +47,19 @@ It is recommended to print using PLA and with tree support.
 | Shading Plate         | [Link](https://detail.tmall.com/item.htm?_u=920cia0fif9e5c&id=924834751732&pisk=g5u7gFtadv3VsXoTVyRVf0lbtOz3JI8wJ6NKsXQP9zU8AwhrCW7UY3VCR-G9Z8-HqvijpxqzeJrURWManb7eZbRBRXhTeyozUWHqdxjrU2yE3eGiCu7r925omAlOz4-u8waz-ypwQF8NZb43JKoZMbBlk7VH87Edyz4AQ81yXF8ZZbfzwClv70lr6ZuFvwHL2jBYT-F89uIJGoFa9yQ8vaIAH-VLJyEdJoCYOWQRvkepGEFQ69Q8paQYk5F39yUKprLY97ULpvEJGje09yepG3-LOgwSNCvWPasAW3NLhwQKlSeuaYsPqRn7Ne2ZN-NDBmP5IRh8hwQQB8O_uXHpdwztjxgQXSLCOSisMv2-we1QGcGxhluV3gSP7RgJVM1bjwFfqIOfxMxkrJ42soszAuF0NbAXGTZ32SVb-IOfxMq8i7Z2GI67x&spm=a1z09.2.0.0.7aac2e8dMzZkOZ) | 2      | ¥2.40   | Applied inside the head part to make the eyes glow more naturally |
 
 
-Note: For the electronics, you can choose different control methods based on your needs.
+Note 1: For the electronics, you can choose different control methods based on your needs.
+
+Note 2: For developers in regions where Taobao is not accessible, you can refer to the size parameters and features to purchase similar accessories from platforms more accessible in your region. If there is significant demand, I will also compile a list of Amazon links in the future.
+
 
 ## Assembly Notes
 
 1. Most screws used in the assembly are M2*10.
+
 2. Due to the complexity of the mechanism and the precision of 3D printing, the head and body connection currently uses hot melt glue for attachment. It is recommended not to install the head until control logic debugging is complete. Feel free to modify the design based on the current model for a more refined joint mechanism or easier disassembly and contribute your changes!
+
 3. The thigh-to-body connection parts require the insertion of two knurled nuts, which can be easily done using needle-nose pliers and a small hammer.
+
 4. Similar to step 2, the leg shell is also attached using hot melt glue, so it is recommended to install it last.
 
 ## Wiring and Control
