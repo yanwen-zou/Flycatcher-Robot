@@ -16,7 +16,9 @@ The majority of the hardware in this project consists of available standard item
   <img src="img/CAD_1.png" style="width: 48%;"/>
   <img src="img/3D_Printing.jpg" style="width: 48%;"/>
 </div>
-Check the STL/STEP files [here](https://github.com/yanwen-zou/Flycatcher-Robot/tree/main/model).
+
+[Check the STL/STEP files here](https://github.com/yanwen-zou/Flycatcher-Robot/tree/main/model)
+
 
 
 It is recommended to print using PLA and with tree support.
@@ -25,21 +27,24 @@ It is recommended to print using PLA and with tree support.
 
 ### Mechanical Parts
 
-| Part Name      | Link                               | Price   | Notes               |
-| -------------- | ---------------------------------- | ------- | ------------------- |
-| M2*10 Screws   | [Link](#)                          | ¥XX.XX  | For assembly        |
-| Knurled Nuts   | [Link](#)                          | ¥XX.XX  | For thigh-body connection |
-| 3D Printed Parts | [Link](#)                         | ¥XX.XX  | Self-printing required |
-| ...            | ...                                | ...     | ...                 |
+| Part Name             | Link                               | Quantity | Price   | Notes                                   |
+| --------------------- | ---------------------------------- | -------- | ------- | --------------------------------------- |
+| mg90s servo 360 degrees | [Link](https://item.taobao.com/item.htm?_u=920cia0fifc95d&id=939629018237&pisk=gnI_Gv4yGsIE_eQJ5nyEPNWBnb-cGJrzDx9AEtnZHhK9lmBNNKo2uPvjcB68ICz0Ss_CM6Yw6I82cK1ytOo4IOybctBJ6n7w_KCFG60N_iRVTo6lNFoNHikG-_W-bGzM0mtwmnFzaurrIOxDDW7PpOhivdJ40jdtWhxKaCMayurPIODwB8WL4NWaFZJnkmCvW9npQBhx6cCvJepW9cpxXKhLdKApDKnvkvLpnK0vHICYvBpwUKH9DFHpJKpkDICvkpeBnBp9DnCApJ9DG7zvhVO1C8V_fcgLarBwOmnAApdMi1g-0pseCSd5CB93tMp_ZQB9OmnXwCwWYtCYGm-Rr6sXypEjhp_5psAOBoMXda6dOUSETg7r4QsT5qMBrmpISJwIoq4gjIxUEegwlFpHCO2QdfTDWpvBmJwIoqY9KdTUdJG6o&spm=a1z09.2.0.0.7aac2e8dMzZkOZ) | 4      | ¥54.00  | For wheels                               |
+| mg90s servo 180 degrees | [Link](https://item.taobao.com/item.htm?_u=920cia0fifc95d&id=939629018237&pisk=gnI_Gv4yGsIE_eQJ5nyEPNWBnb-cGJrzDx9AEtnZHhK9lmBNNKo2uPvjcB68ICz0Ss_CM6Yw6I82cK1ytOo4IOybctBJ6n7w_KCFG60N_iRVTo6lNFoNHikG-_W-bGzM0mtwmnFzaurrIOxDDW7PpOhivdJ40jdtWhxKaCMayurPIODwB8WL4NWaFZJnkmCvW9npQBhx6cCvJepW9cpxXKhLdKApDKnvkvLpnK0vHICYvBpwUKH9DFHpJKpkDICvkpeBnBp9DnCApJ9DG7zvhVO1C8V_fcgLarBwOmnAApdMi1g-0pseCSd5CB93tMp_ZQB9OmnXwCwWYtCYGm-Rr6sXypEjhp_5psAOBoMXda6dOUSETg7r4QsT5qMBrmpISJwIoq4gjIxUEegwlFpHCO2QdfTDWpvBmJwIoqY9KdTUdJG6o&skuId=6002714282708&spm=a1z09.2.0.0.7aac2e8dMzZkOZ) | 4      | ¥51.60  | For leg joints                            |
+| Mini bevel gear        | [Link](https://item.taobao.com/item.htm?_u=920cia0fifd05c&id=802831128052&pisk=g_AUTm4NE_x1kWqsOhCzueGrVJSdh_ojqQs5rUYlRMjnewGuaU8cP2n-Jd7kVh3-J6Tl43-1X7_Sp0FybHTDd9tWdgbljhYQOgGdU38XD3NS9p_uahTRE3Oyy77kr33dV2BeJeCRZmiXajTpJPqfI9AFrNqMWZZhqA63Lf8I5mijGjM3S_oEce1ySd9GuZfl-_bosV7f-8flEwYi7ab7x8VHqF0NXaZlr7XkSGbVP7fuZ_XgSabP-aVlZ5XGXaflq3fo71jOr_jkq_AUpOWq_ZXn5T5wi0oQB6ID-GPugFIdtuT0FWPFkwBUpcITZNON89SD8I2kSnQynIWpmcwCxK5H06vZjW5BYCxVtdogTsvvR6sPmuQgtrdJLu2lK7_NcVuwnsCfHZhMiyw8eOx57igpJ8eRK9_NcVuae8BGMNSjJeC..&spm=a1z09.2.0.0.7aac2e8dMzZkOZ) | 4      | ¥42.40  | 0.5 module, 20 teeth, 4mm shaft hole, fixed to the wheel and coupled with servos |
+| Servo bevel gear       | [Link](https://item.taobao.com/item.htm?_u=920cia0fife739&id=924233815457&pisk=gsoYTWX3XLBvce1VHfYkShFwA4mAkUDqUjkCj5Vc5bh-6vBmoPVg5lhE9PsMuo4TXbNomSD0cRassXg0GqVGXchrMijgcfxT1vuyQS2mmOesPjIioxVmyOEqqqjgiIrtCX49tBxHxxk40lOHt3vEv0EQpi11srMWVl2trx_cdxk4bl6l1e0S3hUww_8_C598VRyhhlwffa98BJF_fSa1NawQN5Zs1P67P-yg1iw_5898nRj_CSNfFuw3dZ1j1l9-F7y_f-G_fLH7aRObxMNWh5stuWavyGp6nZbm2-UY6m2PWVnGxPVCn7sOXdb8uWt3wGss2-M_dwZFcHFSoVi0VmOWeuixMma-iFsLVmhxczhBZghN4ennvMVGtWeGkLn17NzbULYM_n5821KTeWvAON7arTy8tLLf7NzbU8FHHhQN7zXP.&skuId=6079562498001&spm=a1z09.2.0.0.7aac2e8dMzZkOZ) | 4      | ¥42.40  | 0.5 module, 20 teeth, 4mm shaft hole, installed on the servo |
+| Knurled nuts           | [Link](https://item.taobao.com/item.htm?_u=920cia0fif48e4&id=868299597594&pisk=gtaUTNAZq426ZTv1RR3ygW_PFHkKb4WfEzMSZ7VoOvDh2X_kz7PmN6BR9lluFRCR92NoU8ysBUG5vTLzQJN0ADw7AYcoIRVBRY_K48PbH8T5JkGkzRN-q8azwUluZ8CKF6nU9W3-rt6bzZNL9CvjjD4EtAcg6jDoZGiHYNPC1t6flZsHs4WFhWgzilqigj0ot4Y3s1loip0oqXVG_bcWK3Y3E5fZBb9oZUmusAcqNU0krbAijXGexBYntNciBb0ot80l_VDtZ4DuE4AF_coV7jmh10uaoT-H9Xk0tA8ku5Hq-N2HVFTsJXnevNH9rfaZTDk0Trxus-hzmroLnOtIKou332qNIeuQLP2q-lWM8qqYO2sPmLhM-IU8YLxoxUGZh15amq3jDjQgoBtJ2c2S_x1L93K-xDGZh15w23nikfkf9WC..&spm=a1z09.2.0.0.7aac2e8dMzZkOZ) | 20     | ¥0.60  | 3*3*4.1                                 |
 
 ### Electronics
 
-| Part Name      | Link                               | Price   | Notes               |
-| -------------- | ---------------------------------- | ------- | ------------------- |
-| ZhiLing 16-channel Servo Board | [Link](#)        | ¥XX.XX  | Used as the main control board |
-| Battery        | [Link](#)                          | ¥XX.XX  | Choose based on your needs |
-| Control Wires  | [Link](#)                          | ¥XX.XX  | For connecting servos and the control board |
-| ...            | ...                                | ...     | ...                 |
+| Part Name             | Link                               | Quantity | Price   | Notes                                   |
+| --------------------- | ---------------------------------- | -------- | ------- | --------------------------------------- |
+| 24-channel Servo Controller | [Link](https://item.taobao.com/item.htm?_u=920cia0fif2ddb&id=549015493634&pisk=g8cLM_b0wFQpaqSFJ0vMEQEyGAcpyd0E7DufZuqhFcnt2qQnK8quF7nqD81kLW28wcZitk03OzwSqmM3AvqlwbnZv6fuO0A8Vqkwzk4ntaUSCDCoK2qnBaFEsvfuxHP-Pm2JmnADi2uUT7tDmCYqMfFbo66Cqz1_C74-I26hl2uUa76SQ29t8Qeyb3x7PuTT1zz4R7wQFOs_bzXQV0ZQCGaYu7ZSV0w15zUQPuZQPRa_brC5R7wC1Pa3zT1QV0g6WzauNui7dF3_bzN7VBR1GlTQV_HUcJpOwO81lZGTJJE-tzW83vf09oaQf_awwy2dK2ZON_GsFWdIEodOfl0SuYwtwTp7WX3xwPu9Htat9qh8yb-y6gkKijC0qiqYr9LtNTWzdP8ME3RFX5IJwPEDJi6PURbaWoY9dTWzdPzTmedRUTyG7&spm=a1z09.2.0.0.7aac2e8dMzZkOZ&skuId=5268728850417) | 1      | ¥105.00 | For controlling servos                    |
+| Joystick Controller       | [Link](https://item.taobao.com/item.htm?_u=920cia0fif2ddb&id=549015493634&pisk=g8cLM_b0wFQpaqSFJ0vMEQEyGAcpyd0E7DufZuqhFcnt2qQnK8quF7nqD81kLW28wcZitk03OzwSqmM3AvqlwbnZv6fuO0A8Vqkwzk4ntaUSCDCoK2qnBaFEsvfuxHP-Pm2JmnADi2uUT7tDmCYqMfFbo66Cqz1_C74-I26hl2uUa76SQ29t8Qeyb3x7PuTT1zz4R7wQFOs_bzXQV0ZQCGaYu7ZSV0w15zUQPuZQPRa_brC5R7wC1Pa3zT1QV0g6WzauNui7dF3_bzN7VBR1GlTQV_HUcJpOwO81lZGTJJE-tzW83vf09oaQf_awwy2dK2ZON_GsFWdIEodOfl0SuYwtwTp7WX3xwPu9Htat9qh8yb-y6gkKijC0qiqYr9LtNTWzdP8ME3RFX5IJwPEDJi6PURbaWoY9dTWzdPzTmedRUTyG7&spm=a1z09.2.0.0.7aac2e8dMzZkOZ&skuId=5268728850417) | 1      | ¥41.60  | Includes 6P cable, receiver, and adapter board |
+| Battery and Charger   | [Link](https://item.taobao.com/item.htm?_u=920cia0fif2ddb&id=549015493634&pisk=g8cLM_b0wFQpaqSFJ0vMEQEyGAcpyd0E7DufZuqhFcnt2qQnK8quF7nqD81kLW28wcZitk03OzwSqmM3AvqlwbnZv6fuO0A8Vqkwzk4ntaUSCDCoK2qnBaFEsvfuxHP-Pm2JmnADi2uUT7tDmCYqMfFbo66Cqz1_C74-I26hl2uUa76SQ29t8Qeyb3x7PuTT1zz4R7wQFOs_bzXQV0ZQCGaYu7ZSV0w15zUQPuZQPRa_brC5R7wC1Pa3zT1QV0g6WzauNui7dF3_bzN7VBR1GlTQV_HUcJpOwO81lZGTJJE-tzW83vf09oaQf_awwy2dK2ZON_GsFWdIEodOfl0SuYwtwTp7WX3xwPu9Htat9qh8yb-y6gkKijC0qiqYr9LtNTWzdP8ME3RFX5IJwPEDJi6PURbaWoY9dTWzdPzTmedRUTyG7&spm=a1z09.2.0.0.7aac2e8dMzZkOZ&skuId=5697584609067) | 1      | ¥81.60  | Battery and charger                       |
+| LED Light             | [Link](https://item.taobao.com/item.htm?_u=920cia0fif937f&id=566087904384&pisk=gjS4GHMyShf7VYG7c_KZLtZa1qRvahPQsGO6IOXMhIA0WKZibOWHC-FTHaJG1_eTHn6M_15Wwc9_k5nNas6hlE11lCvMZ_XjcCZv71WC91i_DZ9ib_69S1sNBcJGI1ev1-LVHtK9jWNCbk6AHYcBrE2BnYqlepH0FE284l2yjWNQA4MkkStGhC-HVT3kpQvDsmY0U3vwQxxMSKXuUdvsiVmcsT2ywdGMIcYGEQveCcxMnd0lEKpKnCAMiYvkwdxijEfGE8J6ZCxMj1XkGPYy8uJHo8Tw4MVabxQ9ttArjDWJ9nDcTVgIRSvDkBqKgV3TBK82ttAug-lwWF52ugZq9K7lLpJVzR0kiTsVQK7zI4AcI9IdRgSi6LmmpGQqsVYmfLRQU87HvHTppujnhV39r19yO-BxWVLDlLRQU8utWUxpUBwAH&spm=a1z09.2.0.0.7aac2e8dMzZkOZ) | 2      | ¥0.70   | Robot eyes                               |
+| Shading Plate         | [Link](https://detail.tmall.com/item.htm?_u=920cia0fif9e5c&id=924834751732&pisk=g5u7gFtadv3VsXoTVyRVf0lbtOz3JI8wJ6NKsXQP9zU8AwhrCW7UY3VCR-G9Z8-HqvijpxqzeJrURWManb7eZbRBRXhTeyozUWHqdxjrU2yE3eGiCu7r925omAlOz4-u8waz-ypwQF8NZb43JKoZMbBlk7VH87Edyz4AQ81yXF8ZZbfzwClv70lr6ZuFvwHL2jBYT-F89uIJGoFa9yQ8vaIAH-VLJyEdJoCYOWQRvkepGEFQ69Q8paQYk5F39yUKprLY97ULpvEJGje09yepG3-LOgwSNCvWPasAW3NLhwQKlSeuaYsPqRn7Ne2ZN-NDBmP5IRh8hwQQB8O_uXHpdwztjxgQXSLCOSisMv2-we1QGcGxhluV3gSP7RgJVM1bjwFfqIOfxMxkrJ42soszAuF0NbAXGTZ32SVb-IOfxMq8i7Z2GI67x&spm=a1z09.2.0.0.7aac2e8dMzZkOZ) | 2      | ¥2.40   | Applied inside the head part to make the eyes glow more naturally |
+
 
 Note: For the electronics, you can choose different control methods based on your needs.
 
@@ -52,7 +57,7 @@ Note: For the electronics, you can choose different control methods based on you
 
 ## Wiring and Control
 
-We use the ZhiLing 16-channel servo control board as the main control board for this project. This is just a reference. Follow the official documentation to connect the servo wires to the control board and define the interfaces in the software. It is important to note that for the four servos controlling the wheels, their wires need to be extended.
+You should follow the official documentation from Zhongling to connect the servo wires to the control board and define the joystick controller interfaces in the software. 
 
-The joystick is used to control the robot in this project. Similarly, you can find in the official documentation how to map joystick buttons to control signals for each or multiple servos.
+It is important to note that for the four servos controlling the wheels, their wires need to be extended.
 
